@@ -1,0 +1,84 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Noto Sans Telugu
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2013 Google Inc. All Rights Reserved.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00
+    Vendor: Monotype Imaging Inc.
+    Vendor url: http://code.google.com/p/noto/
+    Designer: Monotype Design team
+    Designer url: http://www.monotype.com/studio
+    Glyph count: 763
+    Character count: 154
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Noto Sans Telugu
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2013 Google Inc. All Rights Reserved.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00
+    Vendor: Monotype Imaging Inc.
+    Vendor url: http://code.google.com/p/noto/
+    Designer: Monotype Design team
+    Designer url: http://www.monotype.com/studio
+    Glyph count: 763
+    Character count: 154
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1

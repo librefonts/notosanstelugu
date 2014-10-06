@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Telugu",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 48874,
+  "fonts": [
+    {
+      "name": "Noto Sans Telugu",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansTelugu-Bold.ttf",
+      "postScriptName": "NotoSansTelugu-Bold",
+      "fullName": "Noto Sans Telugu Bold",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Telugu",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansTelugu-Regular.ttf",
+      "postScriptName": "NotoSansTelugu",
+      "fullName": "Noto Sans Telugu",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
